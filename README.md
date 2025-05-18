@@ -7,10 +7,11 @@ This project is a geospatial routing application designed to provide efficient e
 ## Visuals
 
 #### Application Interface
- ![A screenshot of the main application interface](docs\imgs\1.png?raw=true)
+ ![A screenshot of the main application interface](https://github.com/ahmedyasser2005/Geospatial-Emergency-Hospital-Routing/blob/main/docs/imgs/1.png?raw=true)
+ 
 
 #### Route Display
- ![A screenshot of the application displaying a calculated route](docs\imgs\2.png?raw=true)
+ ![A screenshot of the application displaying a calculated route](https://github.com/ahmedyasser2005/Geospatial-Emergency-Hospital-Routing/blob/main/docs/imgs/2.png?raw=true)
 
 ## Features
 
